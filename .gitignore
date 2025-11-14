@@ -1,0 +1,65 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+
+# LaTeX / typesetting
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
+*.pdf
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Data / large files (uncomment if you want to ignore project data)
+# *.csv
+# *.tsv
+# *.rds
+# *.rdata
+# data/
+# datasets/
+
+# Misc
+*.lock
+*.sqlite
+*.db
